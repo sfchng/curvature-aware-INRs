@@ -24,5 +24,14 @@ We provide a [demo IPython notebook](https://colab.research.google.com/drive/1PY
 - [ ] python scripts for other modalities
 - [ ] hessian analysis
 
+## Citation ##
 
+``` 
+@article{saratchandran2023curvature,
+  title={Curvature-Aware Training for Coordinate Networks},
+  author={Saratchandran, Hemanth and Chng, Shin-Fang and Ramasinghe, Sameera and MacDonald, Lachlan and Lucey, Simon},
+  journal={arXiv preprint arXiv:2305.08552},
+  year={2023}
+}
+```
 
