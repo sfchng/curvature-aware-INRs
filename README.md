@@ -7,7 +7,7 @@
 [Sameera Ramasinghe]()<sup>2</sup>,
 [Lachlan MacDonald]()<sup>1</sup>,
 [Simon Lucey]()<sup>1</sup>,
-<sup>1</sup>Australian Institute for Machine Learning (AIML), University of Adelaide, <sup>2</sup>Amazon 
+<sup>1</sup>Australian Institute for Machine Learning (AIML), University of Adelaide, <sup>2</sup>Amazon <br>
 <sup>*</sup>denotes equal contribution
 
 
