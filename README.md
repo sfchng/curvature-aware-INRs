@@ -19,7 +19,10 @@ Coordinate networks are widely used in computer vision due to their ability to r
 ## Code
 We provide a [demo IPython notebook](https://colab.research.google.com/drive/1PYSs4UCOVHn2A5qze61WzgGTY9uuwMsT?authuser=2#scrollTo=Jozp8Gv2HWuy) as a simple reference for the core idea. 
 
-## Status
+## TODOs
+- [x] provide demo
+- [ ] python scripts for other modalities
+- [ ] hessian analysis
 
 
 
